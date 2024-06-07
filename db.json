@@ -5,8 +5,10 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "name": "汉堡王", "desc": "汉堡王汉堡王汉堡王汉堡王汉堡王汉堡王汉堡王", "price": 20 },
+    { "id": 2, "name": "华莱士", "desc": "华莱士华莱士华莱士华莱士华莱士华莱士华莱士", "price": 10 },
+    { "id": 3, "name": "肯德基", "desc": "肯德基肯德基肯德基肯德基肯德基肯德基肯德基肯德基肯德基", "price": 30 },
+    { "id": 4, "name": "德克士", "desc": "德克士德克士德克士德克士德克士德克士", "price": 15 }
   ],
   "profile": {
     "name": "abc812108722"
